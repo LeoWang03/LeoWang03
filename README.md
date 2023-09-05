@@ -3,7 +3,7 @@
 - Learning Python with Mr. Tucker from the fall to the spring
 - Beagles have floppy ears
 
-![Beagle](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.latimes.com%2Flocal%2Fobituaries%2Fla-me-ln-uno-the-beagle-dies-20180921-story.html&psig=AOvVaw1ktgFGZfX8rsHtOyHlfDMb&ust=1694012010352000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCNDvxNPck4EDFQAAAAAdAAAAABAD)
+![Beagle]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.latimes.com%2Flocal%2Fobituaries%2Fla-me-ln-uno-the-beagle-dies-20180921-story.html&psig=AOvVaw1ktgFGZfX8rsHtOyHlfDMb&ust=1694012010352000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCNDvxNPck4EDFQAAAAAdAAAAABAD](https://ca-times.brightspotcdn.com/dims4/default/21b5b75/2147483647/strip/true/crop/2046x1151+0+0/resize/1200x675!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fad%2F5b%2Feb4cd84c599fc452918a3b59558c%2Fla-1537589871-j2q62vhcsg-snap-image))
 <!--
 **LeoWang03/LeoWang03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
