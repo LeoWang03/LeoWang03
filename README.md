@@ -1,7 +1,7 @@
 ### Hi there 👋
 # Senior @ Woodberry Forest School
 # Learning Python with Mr. Tucker from the fall to the spring
-#Beagles have floppy ears
+# Beagles have floppy ears
 
 <!--
 **LeoWang03/LeoWang03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
